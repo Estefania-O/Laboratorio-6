@@ -9,8 +9,9 @@ Estudiar y analizar el comportamiento y caracteristicas de la onda senoidal medi
 
 Objetivos Específicos
 
+- Describir la onda senoidal en su forma gráfica y su forma matemática
+
 - Definir las partes que compone a una onda senoidal
-- 
 
 **2.	MARCO TEÓRICO**
 
