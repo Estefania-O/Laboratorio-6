@@ -11,7 +11,14 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 **3.	DIAGRAMAS**
 
+Circuito con alimentación en corriente alterna
+![.](https://github.com/Estefania-O/Laboratorio-6/blob/main/img/Circuito_ca.png)
 
+Señal que registra el osciloscopio al conectarlo al resistor de carga RL
+![.](https://github.com/Estefania-O/Laboratorio-6/blob/main/img/Circuito_Osciloscopio.jpeg)
+
+Voltaje de salida en RL medido con el multímetro
+![.](https://github.com/Estefania-O/Laboratorio-6/blob/main/img/Cicuito_Voltaje.png)
 
 **4.	LISTA DE COMPONENTES**
 
