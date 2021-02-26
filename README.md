@@ -89,6 +89,10 @@ Compare el voltaje medido con el multímetro digital y el obtenido en la amplitu
 
 
 
+
+
+El osciloscopio es un aparato que permite visualizar en una pantalla señales de voltajes y corrientes tanto alternas como directas. Tiene perillas para ajustar el tamaño de la señal sobre una cuadrícula
+
 **7.	BIBLIOGRAFÍAS**
 
 Zapata, F. (2019, August 22). Onda senoidal: características, partes, cálculo, ejemplos. https://www.lifeder.com/onda-senoidal/
