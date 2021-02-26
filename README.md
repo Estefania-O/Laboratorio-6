@@ -78,7 +78,7 @@ Una vez realizado la simulación del cicuito, observado los valores que nos arro
 
 **7.** Con el multímetro digital mida el voltaje de salida en RL:
 
-    Nos arrojó un valor de 4.788 V
+    Nos arrojó un valor de 4.84 V
 
 **8.** Compare el voltaje medido con el multímetro digital y el obtenido en la amplitud ¿Coinciden? ¿Por qué?
 
