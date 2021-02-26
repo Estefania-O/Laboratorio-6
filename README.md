@@ -103,4 +103,4 @@ Medina, J. (2017, March 16). caracteristicas de una onda senoidal by Jorge Medin
 
 **8. ANEXOS**
 
-![.](https://github.com/Estefania-O/Laboratorio-6/blob/main/Anexos/Frecuencia_Angular.png)
+![.](https://github.com/Estefania-O/Laboratorio-6/blob/main/Anexos/Calculos_gu%C3%ADa6.jpg)
