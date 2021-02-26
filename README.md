@@ -94,3 +94,5 @@ Zapata, F. (2019, August 22). Onda senoidal: características, partes, cálculo,
 Medina, J. (2017, March 16). caracteristicas de una onda senoidal by Jorge Medina. https://prezi.com/afgmqveckl2w/caracteristicas-de-una-onda-senoidal/
 
 **8. ANEXOS**
+
+![.](https://github.com/Estefania-O/Laboratorio-6/blob/main/Anexos/Frecuencia_Angular.png)
