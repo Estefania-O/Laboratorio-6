@@ -1,23 +1,23 @@
 # Laboratorio-6
 CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
-**1.	OBJETIVOS
+**1.	OBJETIVOS**
 
 
 
-**2.	MARCO TEÓRICO
+**2.	MARCO TEÓRICO**
 
 ![.](https://github.com/Estefania-O/Laboratorio-6/blob/main/img/Mapa_Onda_Senoidal.jpg)
 
-**3.	DIAGRAMAS
+**3.	DIAGRAMAS**
 
 
 
-**4.	LISTA DE COMPONENTES
+**4.	LISTA DE COMPONENTES**
 
 
 
-**5.	EXPLICACIÓN
+**5.	EXPLICACIÓN**
 
  ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida
  
@@ -56,12 +56,12 @@ Compare el voltaje medido con el multímetro digital y el obtenido en la amplitu
 •	No, coinciden ya que el voltaje que nos da el osciloscopio es un valor pico y el valor que nos muestra nuestro voltímetro es un valor rms pero si hacemos la transformación los valores son semejantes  
 
 
-**6.	CONCLUSIONES
+**6.	CONCLUSIONES**
 
 
 
-**7.	BIBLIOGRAFÍAS
+**7.	BIBLIOGRAFÍAS**
 
 
 
-**8. ANEXOS
+**8. ANEXOS**
