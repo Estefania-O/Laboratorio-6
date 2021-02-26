@@ -17,7 +17,7 @@ Objetivos Específicos
 
 **2.	MARCO TEÓRICO**
 
-![.](https://github.com/Estefania-O/Laboratorio-6/blob/main/img/Mapa_Onda_Senoidal.jpg)
+![.](https://github.com/Estefania-O/Laboratorio-6/blob/main/img/Mapa_Onda_Senoidal(1).jpg)
 
 **3.	DIAGRAMAS**
 
