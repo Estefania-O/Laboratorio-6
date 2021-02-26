@@ -13,6 +13,8 @@ Objetivos Específicos
 
 - Definir las partes que compone a una onda senoidal
 
+- Conocer la manipulación de un generador de funciones y un osciloscopio.
+
 **2.	MARCO TEÓRICO**
 
 ![.](https://github.com/Estefania-O/Laboratorio-6/blob/main/img/Mapa_Onda_Senoidal.jpg)
