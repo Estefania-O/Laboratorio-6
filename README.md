@@ -89,7 +89,7 @@ Compare el voltaje medido con el multímetro digital y el obtenido en la amplitu
 
 - Las ondas senoidales permiten describir acertadamente eventos naturales y señales variables en el tiempo como voltajes generados por centrales eléctricas. Estas pueden se analizadas matemáticamente como funciones de seno y coseno.
 
-- Período, amplitud, frecuencia, ciclo y fase son conceptos se aplican a las ondas periódicas o repetitivas y son importantes para caracterizarlas adecuadamente.
+- Período, amplitud, frecuencia, ciclo y fase son conceptos que se aplican a las ondas periódicas o repetitivas y son importantes para caracterizarlas adecuadamente.
 
 - Elementos eléctricos como resistencias, condensadores e inductancias, que se conectan a entradas de voltaje sinusoidal, producen respuestas también sinusoidales.
 
