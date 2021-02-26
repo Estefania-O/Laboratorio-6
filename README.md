@@ -72,7 +72,7 @@ Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la seña
 
 •	La frecuencia natural es de 2500 Hz
 
-•	La frecuencia angular tiene un valor de 15707.963 (rad/s)
+•	La frecuencia angular tiene un valor de 5000π (rad/s)
 
 Con el multímetro digital mida el voltaje de salida en RL:
 
