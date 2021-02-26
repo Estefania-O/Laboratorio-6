@@ -7,7 +7,7 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 2.	MARCO TEÓRICO
 
-
+![.](https://github.com/Estefania-O/Laboratorio-6/blob/main/img/Mapa_Onda_Senoidal.jpg)
 
 3.	DIAGRAMAS
 
