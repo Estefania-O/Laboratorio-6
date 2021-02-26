@@ -78,11 +78,11 @@ Una vez realizado la simulación del cicuito, observado los valores que nos arro
 
 **7.** Con el multímetro digital mida el voltaje de salida en RL:
 
-   Nos arrojó un valor de 4.788 V
+    Nos arrojó un valor de 4.788 V
 
 **8.** Compare el voltaje medido con el multímetro digital y el obtenido en la amplitud ¿Coinciden? ¿Por qué?
 
-   No coinciden ya que el voltaje que nos da el osciloscopio es un valor pico y el valor que nos muestra nuestro voltímetro es un valor rms pero si hacemos la              transformación los valores son semejantes  
+    No coinciden ya que el voltaje que nos da el osciloscopio es un valor pico y el valor que nos muestra nuestro voltímetro es un valor rms pero si hacemos la              transformación los valores son semejantes  
 
 **6.	CONCLUSIONES**
 
