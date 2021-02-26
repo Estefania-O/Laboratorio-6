@@ -1,4 +1,4 @@
-# Laboratorio-6
+# Guía de Laboratorio 6
 ## CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 **1.	OBJETIVOS**
