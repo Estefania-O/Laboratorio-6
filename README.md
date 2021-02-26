@@ -62,7 +62,7 @@ Compare el voltaje medido con el multímetro digital y el obtenido en la amplitu
 
 **7.	BIBLIOGRAFÍAS**
 
-Zapata, F. (2019, August 22). Onda senoidal: características, partes, cálculo, ejemplos.
+Zapata, F. (2019, August 22). Onda senoidal: características, partes, cálculo, ejemplos. https://www.lifeder.com/onda-senoidal/
 
 Medina, J. (2017, March 16). caracteristicas de una onda senoidal by Jorge Medina. https://prezi.com/afgmqveckl2w/caracteristicas-de-una-onda-senoidal/
 
