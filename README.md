@@ -15,7 +15,14 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 **4.	LISTA DE COMPONENTES**
 
-
+|**CANTIDAD**|**ELEMENTO**|
+|:---:|:---:|
+|1|Generador de Funciones|
+|1|Osciloscopio|
+|1|Multímetro Digital|
+|1|Resistor de 1 kΩ|
+|1|Resistor de 2.2 kΩ|
+|1|Protoboard|
 
 **5.	EXPLICACIÓN**
 
