@@ -87,7 +87,7 @@ Compare el voltaje medido con el multímetro digital y el obtenido en la amplitu
 
 **6.	CONCLUSIONES**
 
-
+- Las ondas senoidales permiten describir acertadamente eventos naturales y señales variables en el tiempo como voltajes generados por centrales eléctricas. Estas pueden se anlizadas matemáticamente como funciones de seno y coseno.
 
 - Elementos eléctricos como resistencias, condensadores e inductancias, que se conectan a entradas de voltaje sinusoidal, producen respuestas también sinusoidales.
 
