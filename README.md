@@ -89,7 +89,7 @@ Compare el voltaje medido con el multímetro digital y el obtenido en la amplitu
 
 
 
-
+- Elementos eléctricos como resistencias, condensadores e inductancias, que se conectan a entradas de voltaje sinusoidal, producen respuestas también sinusoidales.
 
 - El osciloscopio es un aparato que permite visualizar en una pantalla señales de voltajes y corrientes tanto alternas como directas. Tiene perillas para ajustar el tamaño de la señal sobre una cuadrícula
 
