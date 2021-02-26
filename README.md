@@ -48,42 +48,41 @@ Voltaje de salida en RL medido con el multímetro
 
 Una vez realizado la simulación del cicuito, observado los valores que nos arrojaba el osciloscopio y el multímetro se procedio a contestar las preguntas planteadas en la guía.
 
- ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida
+1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida
  
-•	Tiene aproximadamente 2.2 divisiones por cuadro
+Tiene aproximadamente 2.2 divisiones por cuadro
 
-¿En qué valor está posicionada la perilla VOLTS/DIV
+2. ¿En qué valor está posicionada la perilla VOLTS/DIV
 
-•	Está posicionada en el valor de 3 
+Está posicionada en el valor de 3 
 
-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-•	El ciclo completo abarca 4.5 cuadros aproximadamente
+El ciclo completo abarca 4.5 cuadros aproximadamente
 
- ¿En qué valor está posicionada la perilla TIME/DIV?
+4. ¿En qué valor está posicionada la perilla TIME/DIV?
  
-•	Está posicionada en el valor de 0.1ms
+Está posicionada en el valor de 0.1ms
 
-¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio
+5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio
 
-•	La amplitud de voltaje es: 6.84 V
+La amplitud de voltaje es: 6.84 V
 
-•	El periodo tiene un valor de 0.0001 s
+El periodo tiene un valor de 0.0001 s
 
-Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-•	La frecuencia natural es de 2500 Hz
+La frecuencia natural es de 2500 Hz
 
-•	La frecuencia angular tiene un valor de 5000π (rad/s)
+La frecuencia angular tiene un valor de 5000π (rad/s)
 
-Con el multímetro digital mida el voltaje de salida en RL:
+9. Con el multímetro digital mida el voltaje de salida en RL:
 
-•	Nos arrojó un valor de 4.788 V
+Nos arrojó un valor de 4.788 V
 
-Compare el voltaje medido con el multímetro digital y el obtenido en la amplitud ¿Coinciden? ¿Por qué?
+10. Compare el voltaje medido con el multímetro digital y el obtenido en la amplitud ¿Coinciden? ¿Por qué?
 
-•	No, coinciden ya que el voltaje que nos da el osciloscopio es un valor pico y el valor que nos muestra nuestro voltímetro es un valor rms pero si hacemos la transformación los valores son semejantes  
-
+No coinciden ya que el voltaje que nos da el osciloscopio es un valor pico y el valor que nos muestra nuestro voltímetro es un valor rms pero si hacemos la transformación los valores son semejantes  
 
 **6.	CONCLUSIONES**
 
