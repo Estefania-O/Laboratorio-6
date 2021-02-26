@@ -3,7 +3,14 @@
 
 **1.	OBJETIVOS**
 
+Objetivo General
 
+Estudiar y analizar el comportamiento y caracteristicas de la onda senoidal mediante la experimetación
+
+Objetivos Específicos
+
+- Definir las partes que compone a una onda senoidal
+- 
 
 **2.	MARCO TEÓRICO**
 
