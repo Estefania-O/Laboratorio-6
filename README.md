@@ -44,7 +44,7 @@ Voltaje de salida en RL medido con el multímetro
 
 **5.	EXPLICACIÓN**
 
-Una vez realizado la simulación del cicuito, observado los valores que nos arrojaba el obsiloscopio y el multímetro se procedio a contestar las preguntas planteadas en la guía.
+Una vez realizado la simulación del cicuito, observado los valores que nos arrojaba el osciloscopio y el multímetro se procedio a contestar las preguntas planteadas en la guía.
 
  ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida
  
