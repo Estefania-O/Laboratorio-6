@@ -13,7 +13,7 @@ Objetivos Específicos
 
 - Definir las partes que compone a una onda senoidal
 
-- Conocer la manipulación de un generador de funciones y un osciloscopio.
+- Analizar la manipulación y los valores que arroja un osciloscopio. 
 
 **2.	MARCO TEÓRICO**
 
@@ -91,7 +91,7 @@ Compare el voltaje medido con el multímetro digital y el obtenido en la amplitu
 
 
 
-El osciloscopio es un aparato que permite visualizar en una pantalla señales de voltajes y corrientes tanto alternas como directas. Tiene perillas para ajustar el tamaño de la señal sobre una cuadrícula
+- El osciloscopio es un aparato que permite visualizar en una pantalla señales de voltajes y corrientes tanto alternas como directas. Tiene perillas para ajustar el tamaño de la señal sobre una cuadrícula
 
 **7.	BIBLIOGRAFÍAS**
 
